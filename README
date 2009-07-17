@@ -1,0 +1,34 @@
+#
+# Author: Rogério Carvalho Schneider <stockrt@gmail.com>
+# URL:    http://stockrt.github.com
+#
+
+I made this page so you can reach something useful for your life if you are
+trying to reach pages.github.com and misspelled it :)
+This will lead you to http://stockrt.github.com, my official projects page.
+
+From the official stockrt's page:
+My projects' name and description are dynamically listed, and this is
+somewhat cool.
+You can copy the generation samples from here and use it to make your own
+personal page for 'yournickname.github.com'.
+If you are going to use my code, please keep the reference.
+
+For more GitHub API samples and doc, see:
+v1: http://github.com/guides/the-github-api
+v2: http://develop.github.com
+
+For help on creating your page:
+http://pages.github.com
+
+My official page:
+http://stockrt.github.com
+
+Core files for my official page:
+http://github.com/stockrt/stockrt.github.com
+
+Samples you can pick to generate your page:
+http://github.com/stockrt/stockrt.github.com/tree/master/tests
+
+GPGEN - Engine for generating your static, cooler, better and faster homepage:
+http://github.com/stockrt/gpgen
