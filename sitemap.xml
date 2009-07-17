@@ -5,18 +5,18 @@
   xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://page.github.com/</loc>
-  <lastmod>2009-07-01T01:48:22Z</lastmod>
+  <loc>http://pagess.github.com/</loc>
+  <lastmod>2009-07-17T11:47:00Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://page.github.com/README</loc>
-  <lastmod>2009-06-29T02:59:45Z</lastmod>
+  <loc>http://pagess.github.com/README</loc>
+  <lastmod>2009-07-15T01:59:28Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://page.github.com/index.html</loc>
-  <lastmod>2009-06-29T02:50:07Z</lastmod>
+  <loc>http://pagess.github.com/index.html</loc>
+  <lastmod>2009-07-17T03:20:16Z</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
